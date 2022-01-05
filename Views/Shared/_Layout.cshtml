@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Atv3_henriqueSerpa</title>
+    <link rel="stylesheet" href="~/css/estilo.css" />
+</head>
+<body>
+    <header class="cabecalho"> 
+        <nav>
+            <div id="logo">
+                <a asp-area="" asp-controller="Home" asp-action="Index">PetVet</a>
+            </div>
+                <div class="menu">
+                    <ul>
+                        <li>
+                            <a asp-area="" asp-controller="Home" asp-action="Index">Início</a>
+                        </li>
+                        <li>|</li>
+                        <li>
+                            <a asp-area="" asp-controller="Home" asp-action="Serviços">Serviços</a>
+                        </li>
+                        <li>|</li>
+                        <li>
+                            <a asp-area="" asp-controller="Home" asp-action="PreAgendamento">Agendamento</a>
+                        </li>
+                    </ul>
+            </div>
+        </nav>
+    </header>
+    <div>
+        <main role="main" class="conteudo">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="rodape">
+        <div>
+            Copyright e informações de contato 
+        </div>
+    </footer>
+</body>
+</html>

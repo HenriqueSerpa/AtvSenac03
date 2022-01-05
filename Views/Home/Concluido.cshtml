@@ -1,0 +1,47 @@
+@model List<Agendamento>
+
+<br>
+<h2>Consulta do seu amiguinho agendada!</h2> 
+<br>
+<form>
+    <p>
+        <label>Nome:</label>
+        @foreach (Agendamento A in Model)
+        {
+            <input class="formulario" value="@A.nome" readonly/>
+        }
+    </p>
+    <p>
+        <label>Telefone:</label>
+         @foreach (Agendamento A in Model)
+        {
+            <input class="formulario" type="tel" value="@A.telefone" readonly/>
+        }
+    </p>
+    <p>
+        <label>Data:</label>
+         @foreach (Agendamento A in Model)
+        {
+            <input id="data" type="date" value="@A.data" readonly/>
+        }
+    </p>
+    <p>
+        <label>Animal:</label>
+        @foreach (Agendamento A in Model)
+        {
+            <select class="formulario">
+                <option selected disabled value="">@A.animal</option>>
+               
+            </select>
+        }
+
+    </p>
+    <p>
+        <label>Necessidade:</label>
+         @foreach (Agendamento A in Model)
+        {
+            <textarea rows="3" readonly>@A.necessidade</textarea>
+        }
+    </p>
+</form>
+<br>

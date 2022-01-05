@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-family: Verdana;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.conteudo{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+#logo{
+    font-size: 42px;
+    border: 1px solid black;
+    width: 100%;
+    background-color: aquamarine;
+    padding: 25px;
+}
+
+.menu{
+    padding-left: 25px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;    
+}
+
+.menu ul{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.menu li{
+    font-size: 18px;;
+    padding: 4px;
+    display: inline-block;
+}
+
+.rodape{
+    width: 100%;
+    height: auto;
+    background: aquamarine;
+    padding-left: 25px;
+    padding: 12px;
+    border: 1px solid black;
+    font-size: 21px;
+    margin-top: auto;
+}
+
+/*Index*/
+.bemVindo{
+    font-size: 25px;
+}
+
+.texto{
+    font-size: 20px;
+}
+
+#imagem{
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+/*Serviços*/
+.servicos{
+    padding-left: 10px;
+    list-style-type: disc;
+    list-style-position: inside;
+   
+}
+
+.itens{
+    padding-left: 10px;
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+/*Agendamento*/
+textarea{
+    vertical-align: top;
+    height: 5em;
+    width: 130px;
+    resize: vertical;
+}
+
+.formulario{
+    height: 20px;
+    width: 130px;
+}
+
+label, input, textarea, select{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#data{
+    height: 20px;
+    
+}
+
+#agendar{
+    height: 20px;
+}

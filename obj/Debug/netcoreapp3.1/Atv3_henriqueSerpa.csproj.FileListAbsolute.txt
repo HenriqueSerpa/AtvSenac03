@@ -1,0 +1,156 @@
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.exe
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.deps.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.runtimeconfig.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.runtimeconfig.dev.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.dll
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.pdb
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.dll
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.pdb
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csprojAssemblyReference.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.AssemblyInfoInputs.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.AssemblyInfo.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorAssemblyInfo.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorAssemblyInfo.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.TagHelpers.input.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.TagHelpers.output.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorCoreGenerate.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorTargetAssemblyInfo.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorTargetAssemblyInfo.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.pdb
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\staticwebassets\Atv3_henriqueSerpa.StaticWebAssets.Manifest.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\staticwebassets\Atv3_henriqueSerpa.StaticWebAssets.xml
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.dll
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.pdb
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.genruntimeconfig.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csproj.CopyComplete
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\PreAgendamento.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.exe
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.deps.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.runtimeconfig.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.runtimeconfig.dev.json
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.dll
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.pdb
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.dll
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.pdb
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csprojAssemblyReference.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.AssemblyInfoInputs.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.AssemblyInfo.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorAssemblyInfo.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorAssemblyInfo.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.TagHelpers.input.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.TagHelpers.output.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorCoreGenerate.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\PreAgendamento.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorTargetAssemblyInfo.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorTargetAssemblyInfo.cs
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.pdb
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\staticwebassets\Atv3_henriqueSerpa.StaticWebAssets.Manifest.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\staticwebassets\Atv3_henriqueSerpa.StaticWebAssets.xml
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.dll
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.pdb
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.genruntimeconfig.cache
+C:\Users\Henrique\Downloads\Atv3_henriqueSerpa (1)\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csproj.CopyComplete
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.exe
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.deps.json
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.runtimeconfig.dev.json
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.dll
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.pdb
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.dll
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.pdb
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csprojAssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorAssemblyInfo.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorAssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.TagHelpers.input.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.TagHelpers.output.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorCoreGenerate.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\PreAgendamento.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorTargetAssemblyInfo.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorTargetAssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.pdb
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\staticwebassets\Atv3_henriqueSerpa.StaticWebAssets.Manifest.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\staticwebassets\Atv3_henriqueSerpa.StaticWebAssets.xml
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.dll
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.pdb
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\Atv3_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csproj.CopyComplete
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csprojAssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorAssemblyInfo.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorAssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.TagHelpers.input.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.TagHelpers.output.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorCoreGenerate.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\Home\PreAgendamento.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorTargetAssemblyInfo.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.RazorTargetAssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.dll
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.pdb
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.exe
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.deps.json
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.runtimeconfig.dev.json
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.dll
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.pdb
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.dll
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\bin\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.pdb
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.Views.pdb
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\staticwebassets\Atv3_henriqueSerpa.StaticWebAssets.Manifest.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\staticwebassets\Atv3_henriqueSerpa.StaticWebAssets.xml
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\AtvSenac03\obj\Debug\netcoreapp3.1\Atv3_henriqueSerpa.csproj.CopyComplete
