@@ -1,7 +1,7 @@
 # README
 <p align="center">Desenvolvi esse projeto para estudar e atender à atividade proposta no curso Técnico de Informática para Internet do Senac.</p>
 
-<p align="center">A atividade consistia em desenvolver uma prévia de um site para uma empresa de serviços veterinários, utilizando a estrutura ASP.NET Core MVC. As linguagens utilizadas foram HTML, CSS e C#.</p>
+<p align="center">A atividade consistia em desenvolver uma prévia de um site para uma empresa de serviços veterinários, utilizando Asp.Net Core MVC. As demais tecnologias utilizadas foram HTML, CSS e C#.</p>
 
 <p align="center">Precisava ser criado um layout simples e 4 páginas: Index, Serviços, Pré-Agendamento e Agendamento concluído</p>
 
